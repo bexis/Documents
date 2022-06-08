@@ -8,19 +8,19 @@ Contact BEO: <beo@senckenberg.de>
 
 [1 How to credit data](#1-how-to-credit-data)
 
-- [1.1 Why to cite a dataset](#1.1-why-to-cite-a-dataset)
+- [1.1 Why to cite a dataset](#11-why-to-cite-a-dataset)
 
-- [1.2 How to cite a dataset](#1.2-how-to-cite-a-dataset)
+- [1.2 How to cite a dataset](#12-how-to-cite-a-dataset)
 
-- [1.3 How to make a data availability statement](#1.3-how-to-make-a-data-availability-statement)
+- [1.3 How to make a data availability statement](#13-how-to-make-a-data-availability-statement)
 
 [2 How to acknowledge](#2-how-to-acknowledge)
 
-- [2.1 English publications](#2.1-English-publications)
+- [2.1 English publications](#21-English-publications)
 
-- [2.2 Deutsche Publikationen](#2.2-Deutsche-Publikationen)
+- [2.2 Deutsche Publikationen](#22-Deutsche-Publikationen)
 
-- [2.3 List of names](#2.3-List-of-names)
+- [2.3 List of names](#23-List-of-names)
 
 
 ## 1 How to credit data
