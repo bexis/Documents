@@ -77,7 +77,8 @@ Brandenburg lagen vor
 ### 2.3 List of names
 
 Manager:innen Alb
-- 2021 – now Max Müller
+- 2022 – now Julia Bass, Max Müller
+- 2021 – 2022 Max Müller
 - 2020 – 2021 Julia Bass
 - 2018 – 2020 Kirsten Reichel-Jung and Florian Staub
 - 2017 – 2018 Kirsten Reichel-Jung, Iris Steitz, and Sandra Weithmann
@@ -87,7 +88,8 @@ Manager:innen Alb
 
 
 Manager:innen Hainich
-- 2021 – now Robert Künast
+- 2022 – now Anna K. Franke, Robert Künast
+- 2021 – 2022 Robert Künast
 - 2021 – 2021 Miriam Teuscher
 - 2020 – 2021 Anna K. Franke
 - 2017 – 2020 Juliane Vogt
@@ -96,7 +98,8 @@ Manager:innen Hainich
 - 2006 – 2011 Sonja Gockel
 
 Manager:innen Schorfheide
-- 2020 – now Franca Marian
+- 2022 – now Franca Marian, Max Müller, Uta Schumacher
+- 2020 – 2022 Franca Marian
 - 2016 – 2020 Miriam Teuscher
 - 2010 – 2015 Martin Gorke
 - 2006 – 2010 Andreas Hemp
