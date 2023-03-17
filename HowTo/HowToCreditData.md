@@ -35,11 +35,11 @@ We suggest the following form:
 
 `List of data creators separated by semicolons (Creation date): Title. Dataset version with a leading "Version". Publisher, which is Biodiversity Exploratories Information System. Type of resource, which is "Dataset". For internal data: URL of the repository, which is "https://www.bexis.uni-jena.de/". ID of the dataset with a leading "Dataset ID ="  / For public data: URL or DOI of the dataset.`
 
-**Example internal data:** Fischer, Markus; R. Bolliger; D. Schäfer; N. Hölzel; M. Freitag; D. Prati; V. Klaus (2018): Vegetation Records for Grassland SADE, 2015 - 2018. Version 3. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de/. Dataset ID=24006
+**Example internal data:** Fischer, Markus; Bolliger, Ralph; Schäfer, Deborah; Hölzel, Norbert; Freitag, Martin; Prati, Daniel; Klaus, Valentin (2018): Vegetation Records for Grassland SADE, 2015 - 2018. Version 3. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de/. Dataset ID=24006
 
-**Example public data (URL):** Fischer, Markus; R. Bolliger; D. Schäfer; N. Hölzel; M. Freitag; D. Prati; V. Klaus (2018): Vegetation Records for Grassland SADE, 2015 - 2018. Version 3. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de/ddm/data/Showdata/24006
+**Example public data (URL):** Fischer, Markus; Bolliger, Ralph; Schäfer, Deborah; Hölzel, Norbert; Freitag, Martin; Prati, Daniel; Klaus, Valentin (2018): Vegetation Records for Grassland SADE, 2015 - 2018. Version 3. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de/ddm/data/Showdata/24006
 
-**Example public data (DOI):** Schöning, Ingo; E. Solly; T. Klötzing; M. Schrumpf (2019): Mineral soil pH values of all experimental plots (EP) of the Biodiversity Exploratories project from 2011, Soil (core project). Version 6. Biodiversity Exploratories Information System. Dataset. https://doi.org/10.25829/bexis.14447-1.10.28
+**Example public data (DOI):** Schöning, Ingo; Solly, Emily; Klötzing, Theresa; Schrumpf, Marion (2019): Mineral soil pH values of all experimental plots (EP) of the Biodiversity Exploratories project from 2011, Soil (core project). Version 6. Biodiversity Exploratories Information System. Dataset. https://doi.org/10.25829/bexis.14447-1.10.28
 
 (We will provide a citation string within the dataset download package in the future.)
 
