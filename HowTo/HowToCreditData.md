@@ -88,7 +88,8 @@ Manager:innen Alb
 
 
 Manager:innen Hainich
-- 2022 – now Anna K. Franke, Robert Künast
+- 2023 - now Anna K. Franke
+- 2022 – 2023 Anna K. Franke, Robert Künast
 - 2021 – 2022 Robert Künast
 - 2021 – 2021 Miriam Teuscher
 - 2020 – 2021 Anna K. Franke
@@ -98,7 +99,8 @@ Manager:innen Hainich
 - 2006 – 2011 Sonja Gockel
 
 Manager:innen Schorfheide
-- 2022 – now Franca Marian, Max Müller, Uta Schumacher
+- 2023 - now Franca Marian, Melissa Jüds
+- 2022 – 2023 Franca Marian, Max Müller, Uta Schumacher
 - 2020 – 2022 Franca Marian
 - 2016 – 2020 Miriam Teuscher
 - 2010 – 2015 Martin Gorke
