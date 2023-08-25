@@ -11,6 +11,9 @@ Contact BEO: <beo@senckenberg.de>
 - [1.1 Why to cite a dataset](#11-why-to-cite-a-dataset)
 
 - [1.2 How to cite a dataset](#12-how-to-cite-a-dataset)
+  - [1.2.1 LUI tool](#121-lui-tool---land-use-intensity-index)
+  - [1.2.2 Datasets](#122-datasets)
+  - [1.2.3 Citation](#123-citation)
 
 - [1.3 How to make a data availability statement](#13-how-to-make-a-data-availability-statement)
 
@@ -34,10 +37,10 @@ Quickly read: [Why to cite a dataset](https://datacite.org/cite-your-data.html)
 #### 1.2.1 LUI tool - land use intensity index
 If you have used the LUI calculation tool, please reference as indicated in the [info file](https://www.bexis.uni-jena.de/LUI/main/DownloadPDF?fileName=LUI-citation.pdf).
 
-#### 1.2.1 Datasets
+#### 1.2.2 Datasets
 We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the Tools entry in the main menu.
 
-#### Citation
+#### 1.2.3 Citation
 We follow the [DataCite Metadata Schema](https://schema.datacite.org/) in our citation string compilation and DOI metadata provision. Therefore only the data creators are used as authors for the citation string. If a person is to appear in the citation string, they must be specified as a creator. Please consider that a creator should be one of the "The main researchers involved in producing the data...". We provide further roles within the BExIS metadata. Data Collectors are "Persons responsible for finding or gathering/collecting data under the guidelines of the creator or PIs". PIs are "Persons officially designated as head of project team or sub-project team instrumental in the work necessary to development of the resource".
 
 When assigning a DOI, metadata is generated and sent to the DataCite service. This metadata also contains more information about the contributors, such as the data collectors, PIs, etc. This information is increasingly being used to create links between academic resources. With [DataCite Commons](https://commons.datacite.org/), for example, works (data and publication), people, organizations, and repositories are linked. This shows the scientific networking and all participants are honored for their work.
