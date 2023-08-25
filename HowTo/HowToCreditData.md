@@ -31,7 +31,18 @@ Quickly read: [Why to cite a dataset](https://datacite.org/cite-your-data.html)
 
 ### 1.2 How to cite a dataset
 
-We suggest the following form:
+#### 1.2.1 LUI tool - land use intensity index
+If you have used the LUI calculation tool, please reference as indicated in the [info file](https://www.bexis.uni-jena.de/LUI/main/DownloadPDF?fileName=LUI-citation.pdf).
+
+#### 1.2.1 Datasets
+We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the Tools entry in the main menu.
+
+#### Citation
+We follow the [DataCite Metadata Schema](https://schema.datacite.org/) in our citation string compilation and DOI metadata provision. Therefore only the data creators are used as authors for the citation string. If a person is to appear in the citation string, they must be specified as a creator. Please consider that a creator should be one of the "The main researchers involved in producing the data...". We provide further roles within the BExIS metadata. Data Collectors are "Persons responsible for finding or gathering/collecting data under the guidelines of the creator or PIs". PIs are "Persons officially designated as head of project team or sub-project team instrumental in the work necessary to development of the resource".
+
+When assigning a DOI, metadata is generated and sent to the DataCite service. This metadata also contains more information about the contributors, such as the data collectors, PIs, etc. This information is increasingly being used to create links between academic resources. With [DataCite Commons](https://commons.datacite.org/), for example, works (data and publication), people, organizations, and repositories are linked. This shows the scientific networking and all participants are honored for their work.
+
+For citation strings, we use these formats:
 
 `List of data creators separated by semicolons (Creation date): Title. Dataset version with a leading "Version". Publisher, which is Biodiversity Exploratories Information System. Type of resource, which is "Dataset". For internal data: URL of the repository, which is "https://www.bexis.uni-jena.de/". ID of the dataset with a leading "Dataset ID ="  / For public data: URL or DOI of the dataset.`
 
@@ -41,9 +52,6 @@ We suggest the following form:
 
 **Example public data (DOI):** Schöning, Ingo; Solly, Emily; Klötzing, Theresa; Schrumpf, Marion (2019): Mineral soil pH values of all experimental plots (EP) of the Biodiversity Exploratories project from 2011, Soil (core project). Version 6. Biodiversity Exploratories Information System. Dataset. https://doi.org/10.25829/bexis.14447-1.10.28
 
-(We will provide a citation string within the dataset download package in the future.)
-
-**LUI tool - land use intensity index:** If you have used the LUI caclulation tool, please reference as indicated in the [info file](https://www.bexis.uni-jena.de/LUI/main/DownloadPDF?fileName=LUI-citation.pdf) found there.
 
 ### 1.3 How to make a data availability statement
 
