@@ -13,7 +13,7 @@ Contact BEO: <beo@senckenberg.de>
 - [1.2 How to cite a dataset](#12-how-to-cite-a-dataset)
   - [1.2.1 LUI tool](#121-lui-tool---land-use-intensity-index)
   - [1.2.2 Datasets](#122-datasets)
-  - [1.2.3 Citation](#123-citation-string-compilation)
+  - [1.2.3 Citation string compilation](#123-citation-string-compilation)
 
 - [1.3 How to make a data availability statement](#13-how-to-make-a-data-availability-statement)
 
