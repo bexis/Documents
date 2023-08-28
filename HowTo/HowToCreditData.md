@@ -38,7 +38,7 @@ Quickly read: [Why to cite a dataset](https://datacite.org/cite-your-data.html)
 If you have used the LUI calculation tool, please reference as indicated in the [info file](https://www.bexis.uni-jena.de/LUI/main/DownloadPDF?fileName=LUI-citation.pdf).
 
 #### 1.2.2 Datasets
-We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the Tools entry in the main menu.
+We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the [Tools entry](https://www.bexis.uni-jena.de/mcd/Citation/index) in the main menu.
 
 #### 1.2.3 Citation
 We follow the [DataCite Metadata Schema](https://schema.datacite.org/) in our citation string compilation and DOI metadata provision. Therefore only the data creators are used as authors for the citation string. If a person is to appear in the citation string, they must be specified as a creator. Please consider that a creator should be one of the "The main researchers involved in producing the data...". We provide further roles within the BExIS metadata. Data Collectors are "Persons responsible for finding or gathering/collecting data under the guidelines of the creator or PIs". PIs are "Persons officially designated as head of project team or sub-project team instrumental in the work necessary to development of the resource".
@@ -49,11 +49,11 @@ For citation strings, we use these formats:
 
 `List of data creators separated by semicolons (Creation date): Title. Dataset version with a leading "Version". Publisher, which is Biodiversity Exploratories Information System. Type of resource, which is "Dataset". For internal data: URL of the repository, which is "https://www.bexis.uni-jena.de/". ID of the dataset with a leading "Dataset ID ="  / For public data: URL or DOI of the dataset.`
 
-**Example internal data:** Fischer, Markus; Bolliger, Ralph; Schäfer, Deborah; Hölzel, Norbert; Freitag, Martin; Prati, Daniel; Klaus, Valentin (2018): Vegetation Records for Grassland SADE, 2015 - 2018. Version 3. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de/. Dataset ID=24006
+**Example internal data:** Schäfer, Deborah; Hinderling, Judith (2023): Vegetation summary and biomass data for 150 grassland EPs in 2017 without species identities. Version 4. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de. Dataset ID= 31466
 
-**Example public data (URL):** Fischer, Markus; Bolliger, Ralph; Schäfer, Deborah; Hölzel, Norbert; Freitag, Martin; Prati, Daniel; Klaus, Valentin (2018): Vegetation Records for Grassland SADE, 2015 - 2018. Version 3. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de/ddm/data/Showdata/24006
+**Example public data (URL):** Hinderling, Judith; Bolliger, Ralph (2023): Vegetation records 2020-2022 for new grassland experiment REX and LUX. Version 8. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.deddm/data/Showdata/31411?version=8
 
-**Example public data (DOI):** Schöning, Ingo; Solly, Emily; Klötzing, Theresa; Schrumpf, Marion (2019): Mineral soil pH values of all experimental plots (EP) of the Biodiversity Exploratories project from 2011, Soil (core project). Version 6. Biodiversity Exploratories Information System. Dataset. https://doi.org/10.25829/bexis.14447-1.10.28
+**Example public data (DOI):** Seibold, Sebastian; Goßner, Martin; Simons, Nadja; Blüthgen, Nico; Müller, Jörg; Ambarli, Didem; Ammer, Christian; Bauhus, Jürgen; Fischer, Markus; Fürstenau, Cornelia; Jan C. Habel; Linsenmair, Karl Eduard; Nauss, Thomas; Ostrowski, Andreas; Penone, Caterina; Prati, Daniel; Schall, Peter; Schulze, Ernst-Detlef; Vogt, Juliane; Wöllauer, Stephan; Weisser, Wolfgang (2019): Arthropod data from 150 grassland plots, 2008-2017, and 140 forest plots, 2008-2016, used in "Arthropod decline in grasslands and forests is associated with drivers at landscape level", Nature. Version 3. Biodiversity Exploratories Information System. Dataset. https://doi.org/10.25829/bexis.25786-1.3.11
 
 
 ### 1.3 How to make a data availability statement
