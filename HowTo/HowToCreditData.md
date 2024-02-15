@@ -100,7 +100,7 @@ Manager:innen Alb
 
 Manager:innen Hainich
 -2024 – now Sven Pompe, Anna K. Franke
-- 2023 - 2024 Anna K. Franke
+- 2023 – 2024 Anna K. Franke
 - 2022 – 2023 Anna K. Franke, Robert Künast
 - 2021 – 2022 Robert Künast
 - 2021 – 2021 Miriam Teuscher
