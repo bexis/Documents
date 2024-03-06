@@ -40,6 +40,8 @@ If you have used the LUI calculation tool, please reference as indicated in the 
 #### 1.2.2 Datasets
 We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the [Tools entry](https://www.bexis.uni-jena.de/mcd/Citation/index) in the main menu.
 
+Please add the citation strings of the datasets in the reference section next to the publications!
+
 #### 1.2.3 Citation string compilation
 We follow the [DataCite Metadata Schema](https://schema.datacite.org/) in our citation string compilation and DOI metadata provision. Therefore only the data creators are used as authors for the citation string. If a person is to appear in the citation string, they must be specified as a creator. Please consider that a creator should be one of the "The main researchers involved in producing the data...". We provide further roles within the BExIS metadata. Data Collectors are "Persons responsible for finding or gathering/collecting data under the guidelines of the creator or PIs". PIs are "Persons officially designated as head of project team or sub-project team instrumental in the work necessary to development of the resource".
 
@@ -60,15 +62,19 @@ For citation strings, we use these formats:
 
 We suggest the following statement:
 
-> This work is based on data elaborated by [a project / several projects] of the Biodiversity Exploratories program (DFG Priority Program 1374). The datasets are publicly available in the Biodiversity Exploratories Information System (http://doi.org/10.17616/R32P9Q), (**xxx**). 
->
-> **xxx:** List of citation abbreviations related to the cited datasets in the Reference section OR (if not cited) list of URLs or DOIs of the public available datasets 
+> This work is based on data elaborated by [a project / several projects] of the Biodiversity Exploratories program (DFG Priority Program 1374). The datasets are publicly available in the Biodiversity Exploratories Information System (http://doi.org/10.17616/R32P9Q). 
 
-Should there be data that cannot be published immediately, please add the following statement to the sentence above:
+Usually, if the dataset citation strings are part of the reference section (as strongly suggested), you can add the following sentence:
+> The datasets are listed in the references section.
+
+Otherwise, please include:
+> List of IDs, URLs, or DOIs of the publicly available datasets.
+
+Should some data cannot be published immediately, please add the following statement to the sentence above:
 
 > However, to give data owners and collectors time to perform their analysis the Biodiversity Exploratories' data and publication policy includes by default an embargo period of three years from the end of data collection/data assembly which applies to the remaining datasets (IDs: **yyy**). These datasets will be made publicly available via the same data repository.
 >
-> **yyy:** List of citation abbreviations related to the cited datasets in the Reference section OR (if not cited) list of IDs from internal datasets
+> **yyy:** List of IDs, URLs, or DOIs of the datasets that are not publicly available.
 
 
 ## 2 How to acknowledge
