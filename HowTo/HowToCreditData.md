@@ -64,7 +64,7 @@ We suggest the following statement:
 
 > This work is based on data elaborated by [a project / several projects] of the Biodiversity Exploratories program (DFG Priority Program 1374). The datasets are publicly available in the Biodiversity Exploratories Information System (http://doi.org/10.17616/R32P9Q). 
 
-Usually, if the dataset citation strings are part of the reference section (as strongly suggested), you can add the following sentence:
+Usually, if the dataset citation strings are part of the reference section of your paper (as strongly suggested), you can add the following sentence:
 > The datasets are listed in the references section.
 
 Otherwise, please include:
