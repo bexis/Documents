@@ -38,7 +38,8 @@ Quickly read: [Why to cite a dataset](https://datacite.org/cite-your-data.html)
 If you have used the LUI calculation tool, please reference as indicated in the [info file](https://www.bexis.uni-jena.de/LUI/LUICalculation/DownloadPDF?fileName=LUI-citation.pdf).
 
 #### 1.2.2 Datasets
-We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the [Tools entry](https://www.bexis.uni-jena.de/mcd/Citation/index) in the main menu.
+We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the [Tools entry](https://www.bexis.uni-jena.de/mcd/Citation/index) <a href="[https://www.beispiel.de](https://www.bexis.uni-jena.de/mcd/Citation/index)" target="_blank">Tools entry</a>
+in the main menu.
 
 Please add the citation strings of the datasets in the reference section next to the publications!
 
@@ -53,7 +54,7 @@ For citation strings, we use these formats:
 
 **Example internal data:** Schäfer, Deborah; Hinderling, Judith (2023): Vegetation summary and biomass data for 150 grassland EPs in 2017 without species identities. Version 4. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de. Dataset ID= 31466
 
-**Example public data (URL):** Hinderling, Judith; Bolliger, Ralph (2023): Vegetation records 2020-2022 for new grassland experiment REX and LUX. Version 8. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.deddm/data/Showdata/31411?version=8
+**Example public data (URL):** Hinderling, Judith; Bolliger, Ralph (2023): Vegetation records 2020-2022 for new grassland experiment REX and LUX. Version 8. Biodiversity Exploratories Information System. Dataset. https://www.bexis.uni-jena.de/ddm/data/Showdata/31411?version=8
 
 **Example public data (DOI):** Seibold, Sebastian; Goßner, Martin; Simons, Nadja; Blüthgen, Nico; Müller, Jörg; Ambarli, Didem; Ammer, Christian; Bauhus, Jürgen; Fischer, Markus; Fürstenau, Cornelia; Jan C. Habel; Linsenmair, Karl Eduard; Nauss, Thomas; Ostrowski, Andreas; Penone, Caterina; Prati, Daniel; Schall, Peter; Schulze, Ernst-Detlef; Vogt, Juliane; Wöllauer, Stephan; Weisser, Wolfgang (2019): Arthropod data from 150 grassland plots, 2008-2017, and 140 forest plots, 2008-2016, used in "Arthropod decline in grasslands and forests is associated with drivers at landscape level", Nature. Version 3. Biodiversity Exploratories Information System. Dataset. https://doi.org/10.25829/bexis.25786-1.3.11
 
