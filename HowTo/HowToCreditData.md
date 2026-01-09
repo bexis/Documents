@@ -38,8 +38,8 @@ Quickly read: [Why to cite a dataset](https://datacite.org/cite-your-data.html)
 If you have used the LUI calculation tool, please reference as indicated in the [info file](https://www.bexis.uni-jena.de/LUI/LUICalculation/DownloadPDF?fileName=LUI-citation.pdf).
 
 #### 1.2.2 Datasets
-We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the [Tools entry](https://www.bexis.uni-jena.de/mcd/Citation/index) <a href="[https://www.beispiel.de](https://www.bexis.uni-jena.de/mcd/Citation/index)" target="_blank">Tools entry</a>
-in the main menu.
+We provide a download option in BExIS for a citation string in various formats. You find it on every individual dataset landing page as a clickable button. Furthermore, in BExIS is a multi-download possible via the [Tools entry](https://www.bexis.uni-jena.de/mcd/Citation/index){target="_blank"} <a href="https://www.bexis.uni-jena.de/mcd/Citation/index" target="_blank">Tools entry</a> in the main menu.
+
 
 Please add the citation strings of the datasets in the reference section next to the publications!
 
