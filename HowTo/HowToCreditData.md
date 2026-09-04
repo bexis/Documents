@@ -1,4 +1,4 @@
-# How to credit
+# How to Credit
 
 Contact BExIS Team: <bexis@listserv.uni-jena.de>
 Contact BEO: <beo@senckenberg.de>
