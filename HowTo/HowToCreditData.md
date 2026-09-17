@@ -95,7 +95,8 @@ Brandenburg lagen vor
 ### 2.3 List of names
 
 Manager:innen Alb
-- 2022 – now Julia Bass, Max Müller
+- 2025 - now  Max Müller
+- 2022 – 2025 Julia Bass, Max Müller
 - 2021 – 2022 Max Müller
 - 2020 – 2021 Julia Bass
 - 2018 – 2020 Kirsten Reichel-Jung and Florian Staub
@@ -127,7 +128,8 @@ Manager:innen Schorfheide
 - 2006 – 2010 Andreas Hemp
 
 BEO
-- 2020 – now Victoria Grießmeier
+- 2025 - now  Victoria Grießmeier, Franca Marian, Anna K. Franke
+- 2020 – 2025 Victoria Grießmeier
 - 2017 – 2020 Christiane Fischer
 - 2016 – 2017 Christiane Fischer and Jule Mangels
 - 2013 – 2015 Christiane Fischer
